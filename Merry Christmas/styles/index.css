@@ -100,7 +100,7 @@ nav ul li a:hover{
         font-weight: lighter; 
     }  
 #text-box #row{display: flex;   }
-#text-box button{margin-left: 35%;   }
+#text-box button{   }
 
 .snowflake {
     color: #fff;
