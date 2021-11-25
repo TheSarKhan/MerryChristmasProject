@@ -28,23 +28,26 @@ nav{
    padding: 20px 9% 10px 10px ; 
 }
 #logo{
-    width: 80px;
-    height: 80px;
+    width: 50px;
+    height: 50px;
     cursor: pointer;
 }
-
+#haribulbul{
+    width: 35px;
+    height: 35px;
+}
 ul{
     flex: 1;
     text-align: right;
 }
 
-#snowButton{
+#hariBulbulButton{
     color: rgb(255, 0, 0);
     border-radius: 6px;
     border: 3px solid red;
     background-color: white;
     }
-    #snowButton:hover{
+    #hariBulbulButton:hover{
         
   transition: 0.5s;
         color: rgb(255, 255, 255); 
@@ -99,6 +102,11 @@ nav ul li a:hover{
         font-size: 30px;
         font-weight: lighter; 
     }  
+    #text-box h4 span{
+        font-family: 'Outfit', sans-serif;
+        font-size: 30px;
+        font-weight: bold; 
+    } 
 #text-box #row{display: flex;   }
 #text-box button{   }
 
